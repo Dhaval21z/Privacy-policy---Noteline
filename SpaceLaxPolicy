@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SpaceLax Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 16px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      margin-top: 24px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Privacy Policy for SpaceLax</h1>
+<p><strong>Effective Date:</strong> 31 December 2025</p>
+
+<p>
+SpaceLax is a casual, offline-first game designed for relaxation and entertainment.
+Your privacy is important to us, and this app is built with minimal data usage in mind.
+</p>
+
+<h2>Information Collection</h2>
+<p>
+SpaceLax does not collect, store, or request any personal information from users.
+No account creation, login, or personal identifiers are required to play the game.
+</p>
+
+<h2>Data Usage</h2>
+<p>
+All game data, such as progress and settings, is stored locally on the user’s device.
+SpaceLax does not transmit any data to external servers.
+</p>
+
+<h2>Third-Party Services</h2>
+<p>
+SpaceLax does not use third-party analytics, advertising SDKs, or tracking services.
+</p>
+
+<h2>User Control</h2>
+<p>
+Users can remove all locally stored game data by clearing the app’s storage
+or uninstalling the application from their device.
+</p>
+
+<h2>Children’s Privacy</h2>
+<p>
+SpaceLax is safe for all age groups and does not knowingly collect any data from children.
+</p>
+
+<h2>Contact</h2>
+<p>
+Developer: Ddevloper<br/>
+App Name: SpaceLax
+</p>
+
+</body>
+</html>
